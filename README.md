@@ -1,5 +1,5 @@
 Hello, Here are some quick insights.
-
+Talking about how Silver have recently became a Poor man's GOLD! 
 I. Dataset Overview & Data Quality
 
 To start with let us look at the silver market data that Garvika Jains project provided. The data about the silver market is really good and well organized.
